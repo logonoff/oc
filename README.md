@@ -11,8 +11,8 @@ OpenShift cluster.
 
 All contributions are welcome - oc uses the Apache 2 license and does not require
 any contributor agreement to submit patches.  Please open issues for any bugs
-or problems you encounter, ask questions on the OpenShift IRC channel
-(#openshift-dev on freenode), or get involved in the [kubectl](https://github.com/kubernetes/kubectl)
+or problems you encounter, ask questions on the [Kubernetes Slack](https://slack.k8s.io/)
+(#openshift-users), or get involved in the [kubectl](https://github.com/kubernetes/kubectl)
 and [kubernetes project](https://github.com/kubernetes/kubernetes) at the container
 runtime layer.
 
